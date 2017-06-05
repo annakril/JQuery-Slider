@@ -1,0 +1,41 @@
+#carousel {
+	height: 400px;
+	width: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+#carousel ul {
+	height: 400px;
+	width: 500%;
+	padding: 0;
+}
+
+#carousel li {
+	height: 400px;
+	width: 20%;
+	float: left;
+	display: block;
+	text-decoration: none;
+	list-style-type: none;
+}
+
+#carousel .jeden {
+	background-color: red;
+}
+
+#carousel .dwa {
+	background-color: orange;
+}
+
+#carousel .trzy {
+	background-color: yellow;
+}
+
+#carousel .cztery {
+	background-color: green;
+}
+
+#carousel .piec {
+	background-color: blue;
+}
